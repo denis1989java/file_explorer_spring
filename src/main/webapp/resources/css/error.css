@@ -1,0 +1,19 @@
+img{
+   position: absolute;
+    left: 50%;
+    margin-left: -325px;
+    top: 50%;
+    margin-top: -175px;
+    width: 650px;
+    height: 350px;
+}
+p{
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    top: 50%;
+    margin-top: -200px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
